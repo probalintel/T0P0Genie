@@ -32,7 +32,7 @@ This tool helps in **auditing**, **visualizing**, and **securing** your network 
 git clone https://github.com/probalintel/T0P0Genie.git
 cd T0P0Genie
 ```
-### 2️⃣ Upload all the Router & Switch Configuration files into **"scr/configs"* directory 
+### 2️⃣ Upload all the Router & Switch Configuration files into *"src/configs"* directory 
 ### 3️⃣ Run the Python files
 ```bash
 python3 main.py
